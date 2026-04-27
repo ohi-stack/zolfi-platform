@@ -1,0 +1,30 @@
+{
+  "name": "zolfi-platform",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Unified platform for Zolfi™, OneGodian’s blockchain development and security agent.",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "test": "turbo test",
+    "typecheck": "turbo typecheck",
+    "format": "prettier --write .",
+    "check": "npm run typecheck && npm run lint && npm run test"
+  },
+  "keywords": [
+    "zolfi",
+    "onegodian",
+    "blockchain-security",
+    "smart-contracts",
+    "post-quantum",
+    "agent-platform"
+  ],
+  "author": "One Gregory Onegodian™",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "turbo": "latest",
+    "typescript": "latest",
+    "prettier": "latest"
+  }
+}
