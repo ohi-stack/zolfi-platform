@@ -1,0 +1,1 @@
+export default function Legal(){return <main><div className='container'><h1>Legal</h1><div className='card'><p>Zolfi™ materials, branding, software, and documentation are protected intellectual property unless otherwise licensed.</p><p className='muted'>Use of services may be subject to separate commercial agreements, security scopes, and privacy terms.</p></div></div></main>}
