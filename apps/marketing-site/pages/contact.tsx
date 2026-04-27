@@ -1,0 +1,1 @@
+export default function Contact(){return <main><div className='container'><h1>Contact Zolfi™</h1><p className='muted'>Request a demo, partnership discussion, or technical consultation.</p><div className='card'><p>Email: hello@zolfi.net</p><p>Status: Accepting inquiries</p></div></div></main>}
